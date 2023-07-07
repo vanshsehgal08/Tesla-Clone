@@ -2,7 +2,7 @@
 
 This project is a clone of the Tesla website, showcasing the design and layout of the original Tesla website. It serves as a demonstration of front-end development skills, including HTML, CSS, and JavaScript.
 
-![Tesla Website Clone](screenshot.png)
+![Tesla Website Clone](Screenshot.png)
 
 ## Features
 
