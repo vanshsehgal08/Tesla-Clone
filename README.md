@@ -19,10 +19,6 @@ This project is a clone of the Tesla website, showcasing the design and layout o
 - Bootstrap: The Bootstrap framework is utilized for responsive grid layout and some pre-styled components.
 - FontAwesome: FontAwesome icons are used for certain graphical elements.
 
-## License
-
-This project is licensed under the MIT License. You are free to use, modify, and distribute the code as per the terms of the license.
-
 ## Acknowledgements
 
 - This project is inspired by the original design of the Tesla website (https://www.tesla.com/).
